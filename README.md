@@ -14,7 +14,8 @@ This project is a weather dashboard application that provides real-time weather 
 - **Responsive Design:** The dashboard is responsive and works well on both desktop and mobile devices.
 
 ## How to Use:
-1. **Launch the Application:** Navigate to the link provided to access the weather dashboard.
+1. **Launch the Application:** Navigate to the following link to access the weather dashboard:
+   [Weather Dashboard](https://weather-dashboard-ten-mauve.vercel.app/)
 2. **Enter a City:** In the search bar at the top of the page, enter a city name (e.g., "Boston").
 3. **View the Results:** After entering the city, the current weather and a 5-day forecast will be displayed below the search bar.
 
