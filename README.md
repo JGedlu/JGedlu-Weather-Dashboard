@@ -5,7 +5,7 @@ This project is a weather dashboard application that provides real-time weather 
 ## Features:
 - **Search for City:** Users can enter the name of any city to get real-time weather data.
 - **Current Weather:** Displays current weather information, including:
-  - Temperature (in Celsius or Fahrenheit)
+  - Temperature (in Fahrenheit)
   - Humidity
   - Wind speed
   - Weather icon and description
@@ -20,7 +20,7 @@ This project is a weather dashboard application that provides real-time weather 
 3. **View the Results:** After entering the city, the current weather and a 5-day forecast will be displayed below the search bar.
 
 ## Known Issues:
-- **Bug with Weather Icon Display:** There's a bug with the display of one of the weather icons. This issue is related to resolution formatting, and I am working on fixing it with the latest programming practices.
+- **Bug with Weather Icon Display:** There's a bug with the display of one of the weather icons. This issue is related to resolution formatting, and I am working on fixing it with the latest programming practices I've been researching and aim to implement the code in winter break.
 
 ## Technologies Used:
 - HTML
